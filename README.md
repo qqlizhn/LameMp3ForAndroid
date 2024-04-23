@@ -1,3 +1,10 @@
+<!-- ndk版本20或以上都不行，设置
+android{
+...
+ndkVersion '19.2.5345600'
+}
+另外local.properties的ndk.dir过时需要注释。 -->
+
 # LameMp3ForAndroid
 ![image](https://github.com/clam314/Image/blob/master/lameforandroid.png?raw=true)<br>
 <br>
